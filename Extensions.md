@@ -27,6 +27,13 @@
             "tags": ["tab", "dropdown", "training"]
         },
         {
+            "name": "civitai_extension",
+            "url": "https://github.com/civitai/sd_civitai_extension.git",
+            "description": "Dreambooth training based on Shivam Shiaro's repo, optimized for lower-VRAM GPUs.",
+            "added": "2022-11-07",
+            "tags": ["tab", "training"]
+        },
+        {
             "name": "Dreambooth",
             "url": "https://github.com/d8ahazard/sd_dreambooth_extension.git",
             "description": "Dreambooth training based on Shivam Shiaro's repo, optimized for lower-VRAM GPUs.",
